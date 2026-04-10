@@ -1,0 +1,501 @@
+statut_juridique,secteur_activite,taille,region,montant_financement
+Coopérative,Tourisme,Start-up,Fès-Meknès,214667
+Auto-entrepreneur,Tourisme,Start-up,Marrakech-Safi,191427
+Coopérative,Tech,Start-up,Marrakech-Safi,314773
+Coopérative,Tourisme,Start-up,Casablanca-Settat,227683
+Auto-entrepreneur,Agriculture,TPE,Tanger-Tétouan,34806
+Auto-entrepreneur,Commerce,Start-up,Casablanca-Settat,166688
+Coopérative,Commerce,PME,Rabat-Salé-Kénitra,144408
+Personne physique,Artisanat,PME,Casablanca-Settat,137435
+Coopérative,Tourisme,Start-up,Casablanca-Settat,236144
+Coopérative,Agriculture,Start-up,Fès-Meknès,150449
+Coopérative,Artisanat,PME,Autre,91181
+Coopérative,Tech,PME,Marrakech-Safi,156658
+Auto-entrepreneur,Artisanat,TPE,Tanger-Tétouan,22743
+Coopérative,Artisanat,PME,Casablanca-Settat,93874
+Personne physique,Tourisme,PME,Tanger-Tétouan,132982
+Auto-entrepreneur,Tech,Start-up,Autre,289122
+Personne physique,Artisanat,PME,Autre,103087
+Personne physique,Agriculture,TPE,Casablanca-Settat,48272
+Personne physique,Agriculture,PME,Rabat-Salé-Kénitra,122245
+Personne physique,Commerce,Start-up,Casablanca-Settat,219345
+Auto-entrepreneur,Tech,Start-up,Fès-Meknès,252279
+Auto-entrepreneur,Tech,PME,Marrakech-Safi,200770
+Personne physique,Commerce,Start-up,Rabat-Salé-Kénitra,182080
+Personne physique,Artisanat,TPE,Casablanca-Settat,44152
+Auto-entrepreneur,Tech,TPE,Tanger-Tétouan,57762
+Auto-entrepreneur,Agriculture,PME,Rabat-Salé-Kénitra,98325
+Auto-entrepreneur,Agriculture,PME,Rabat-Salé-Kénitra,109882
+Coopérative,Tourisme,PME,Casablanca-Settat,132937
+Coopérative,Tech,Start-up,Rabat-Salé-Kénitra,380154
+Coopérative,Artisanat,TPE,Tanger-Tétouan,36549
+Personne physique,Commerce,TPE,Autre,37052
+Coopérative,Commerce,Start-up,Rabat-Salé-Kénitra,182886
+Personne physique,Artisanat,TPE,Autre,32664
+Personne physique,Industrie,PME,Tanger-Tétouan,209690
+Coopérative,Tourisme,PME,Casablanca-Settat,118182
+Personne physique,Commerce,PME,Marrakech-Safi,133771
+Coopérative,Tech,TPE,Rabat-Salé-Kénitra,69631
+Coopérative,Tourisme,PME,Marrakech-Safi,132829
+Auto-entrepreneur,Tech,Start-up,Tanger-Tétouan,238736
+Coopérative,Agriculture,Start-up,Rabat-Salé-Kénitra,205316
+Auto-entrepreneur,Tourisme,TPE,Autre,37701
+Coopérative,Commerce,Start-up,Fès-Meknès,158408
+Coopérative,Tourisme,Start-up,Marrakech-Safi,181241
+Auto-entrepreneur,Tourisme,TPE,Rabat-Salé-Kénitra,44927
+Auto-entrepreneur,Tourisme,PME,Marrakech-Safi,94218
+Coopérative,Industrie,PME,Rabat-Salé-Kénitra,194212
+Personne physique,Tourisme,PME,Casablanca-Settat,148041
+Auto-entrepreneur,Tech,TPE,Autre,45304
+Personne physique,Agriculture,Start-up,Marrakech-Safi,229660
+Personne physique,Artisanat,PME,Fès-Meknès,97568
+Personne physique,Tourisme,PME,Fès-Meknès,129010
+Auto-entrepreneur,Commerce,TPE,Tanger-Tétouan,32086
+Personne physique,Tourisme,PME,Rabat-Salé-Kénitra,147020
+Auto-entrepreneur,Commerce,TPE,Marrakech-Safi,29424
+Personne physique,Tech,Start-up,Tanger-Tétouan,334751
+Coopérative,Commerce,TPE,Marrakech-Safi,45432
+Coopérative,Artisanat,TPE,Rabat-Salé-Kénitra,29875
+Auto-entrepreneur,Agriculture,TPE,Fès-Meknès,32306
+Coopérative,Commerce,TPE,Casablanca-Settat,39133
+Coopérative,Commerce,Start-up,Fès-Meknès,201562
+Personne physique,Agriculture,Start-up,Tanger-Tétouan,170470
+Auto-entrepreneur,Artisanat,PME,Autre,89807
+Personne physique,Tourisme,Start-up,Casablanca-Settat,242925
+Personne physique,Commerce,Start-up,Tanger-Tétouan,190064
+Personne physique,Agriculture,PME,Rabat-Salé-Kénitra,104504
+Personne physique,Tech,Start-up,Casablanca-Settat,334143
+Personne physique,Agriculture,TPE,Tanger-Tétouan,40316
+Personne physique,Tech,TPE,Rabat-Salé-Kénitra,68708
+Personne physique,Artisanat,PME,Fès-Meknès,112872
+Auto-entrepreneur,Tourisme,PME,Autre,94513
+Coopérative,Agriculture,PME,Rabat-Salé-Kénitra,102002
+Personne physique,Industrie,TPE,Marrakech-Safi,62811
+Personne physique,Commerce,Start-up,Rabat-Salé-Kénitra,241580
+Personne physique,Artisanat,TPE,Rabat-Salé-Kénitra,31856
+Personne physique,Agriculture,PME,Autre,93641
+Personne physique,Commerce,Start-up,Marrakech-Safi,173117
+Personne physique,Agriculture,Start-up,Tanger-Tétouan,218912
+Coopérative,Tech,TPE,Tanger-Tétouan,67128
+Coopérative,Agriculture,PME,Rabat-Salé-Kénitra,112249
+Personne physique,Industrie,TPE,Marrakech-Safi,68260
+Coopérative,Agriculture,Start-up,Marrakech-Safi,202008
+Auto-entrepreneur,Agriculture,TPE,Autre,29783
+Personne physique,Industrie,TPE,Fès-Meknès,65397
+Auto-entrepreneur,Artisanat,PME,Tanger-Tétouan,74116
+Auto-entrepreneur,Agriculture,PME,Autre,72988
+Personne physique,Industrie,Start-up,Casablanca-Settat,299607
+Coopérative,Commerce,TPE,Tanger-Tétouan,31473
+Auto-entrepreneur,Tech,TPE,Autre,51028
+Personne physique,Tech,TPE,Tanger-Tétouan,82225
+Auto-entrepreneur,Agriculture,Start-up,Fès-Meknès,123992
+Auto-entrepreneur,Artisanat,Start-up,Casablanca-Settat,130722
+Auto-entrepreneur,Artisanat,PME,Fès-Meknès,78274
+Auto-entrepreneur,Commerce,PME,Casablanca-Settat,131672
+Coopérative,Agriculture,PME,Rabat-Salé-Kénitra,105061
+Auto-entrepreneur,Tech,TPE,Autre,50546
+Auto-entrepreneur,Artisanat,TPE,Casablanca-Settat,25152
+Auto-entrepreneur,Agriculture,PME,Fès-Meknès,78372
+Coopérative,Artisanat,TPE,Tanger-Tétouan,37632
+Auto-entrepreneur,Industrie,PME,Casablanca-Settat,187870
+Auto-entrepreneur,Artisanat,Start-up,Autre,101049
+Coopérative,Tech,PME,Casablanca-Settat,245473
+Coopérative,Tourisme,Start-up,Marrakech-Safi,213769
+Coopérative,Commerce,TPE,Tanger-Tétouan,43879
+Auto-entrepreneur,Commerce,PME,Autre,90138
+Coopérative,Tech,TPE,Autre,57054
+Coopérative,Artisanat,Start-up,Rabat-Salé-Kénitra,164637
+Auto-entrepreneur,Agriculture,Start-up,Fès-Meknès,162145
+Coopérative,Artisanat,Start-up,Rabat-Salé-Kénitra,141538
+Auto-entrepreneur,Tech,TPE,Autre,40924
+Personne physique,Commerce,TPE,Tanger-Tétouan,39235
+Coopérative,Artisanat,TPE,Casablanca-Settat,37487
+Personne physique,Commerce,TPE,Casablanca-Settat,41175
+Auto-entrepreneur,Agriculture,Start-up,Tanger-Tétouan,171100
+Coopérative,Commerce,Start-up,Autre,204478
+Auto-entrepreneur,Commerce,PME,Casablanca-Settat,93974
+Personne physique,Tourisme,PME,Casablanca-Settat,158753
+Auto-entrepreneur,Tourisme,TPE,Casablanca-Settat,38709
+Coopérative,Industrie,Start-up,Fès-Meknès,294271
+Coopérative,Tourisme,Start-up,Fès-Meknès,167532
+Personne physique,Commerce,Start-up,Marrakech-Safi,228873
+Auto-entrepreneur,Tech,PME,Rabat-Salé-Kénitra,200257
+Coopérative,Commerce,PME,Tanger-Tétouan,135158
+Personne physique,Tech,Start-up,Tanger-Tétouan,375655
+Coopérative,Tech,Start-up,Tanger-Tétouan,314644
+Coopérative,Tourisme,Start-up,Marrakech-Safi,212046
+Auto-entrepreneur,Artisanat,PME,Fès-Meknès,91575
+Coopérative,Agriculture,Start-up,Autre,166576
+Auto-entrepreneur,Tourisme,Start-up,Autre,131569
+Coopérative,Tourisme,TPE,Marrakech-Safi,47481
+Personne physique,Artisanat,TPE,Autre,33888
+Coopérative,Agriculture,PME,Tanger-Tétouan,115625
+Auto-entrepreneur,Commerce,Start-up,Rabat-Salé-Kénitra,158199
+Auto-entrepreneur,Industrie,Start-up,Casablanca-Settat,280778
+Personne physique,Industrie,TPE,Fès-Meknès,54580
+Coopérative,Commerce,PME,Fès-Meknès,115607
+Coopérative,Tourisme,TPE,Marrakech-Safi,34127
+Personne physique,Agriculture,TPE,Fès-Meknès,40399
+Coopérative,Tourisme,TPE,Tanger-Tétouan,48591
+Coopérative,Tech,TPE,Autre,46453
+Auto-entrepreneur,Tourisme,Start-up,Tanger-Tétouan,214357
+Coopérative,Tourisme,Start-up,Marrakech-Safi,194960
+Coopérative,Commerce,TPE,Tanger-Tétouan,43923
+Personne physique,Commerce,PME,Autre,127711
+Personne physique,Commerce,PME,Rabat-Salé-Kénitra,137464
+Auto-entrepreneur,Industrie,PME,Marrakech-Safi,157735
+Coopérative,Tech,PME,Rabat-Salé-Kénitra,228497
+Coopérative,Commerce,TPE,Casablanca-Settat,40462
+Coopérative,Agriculture,Start-up,Rabat-Salé-Kénitra,175924
+Auto-entrepreneur,Industrie,PME,Casablanca-Settat,169019
+Auto-entrepreneur,Artisanat,TPE,Casablanca-Settat,34593
+Personne physique,Agriculture,PME,Rabat-Salé-Kénitra,139219
+Auto-entrepreneur,Agriculture,PME,Marrakech-Safi,107436
+Coopérative,Commerce,TPE,Autre,33538
+Coopérative,Artisanat,Start-up,Tanger-Tétouan,177524
+Auto-entrepreneur,Artisanat,Start-up,Tanger-Tétouan,118732
+Coopérative,Industrie,TPE,Autre,49465
+Coopérative,Artisanat,Start-up,Casablanca-Settat,138999
+Auto-entrepreneur,Tech,TPE,Casablanca-Settat,57278
+Auto-entrepreneur,Commerce,TPE,Marrakech-Safi,32184
+Coopérative,Artisanat,TPE,Fès-Meknès,28682
+Coopérative,Industrie,Start-up,Rabat-Salé-Kénitra,305666
+Coopérative,Tech,TPE,Casablanca-Settat,66211
+Personne physique,Tourisme,PME,Tanger-Tétouan,132229
+Personne physique,Tourisme,Start-up,Marrakech-Safi,201379
+Personne physique,Tech,Start-up,Rabat-Salé-Kénitra,348868
+Auto-entrepreneur,Industrie,Start-up,Marrakech-Safi,213818
+Personne physique,Tech,Start-up,Rabat-Salé-Kénitra,304760
+Auto-entrepreneur,Commerce,PME,Rabat-Salé-Kénitra,111532
+Auto-entrepreneur,Commerce,Start-up,Autre,163295
+Personne physique,Tourisme,Start-up,Casablanca-Settat,259330
+Personne physique,Artisanat,TPE,Marrakech-Safi,34489
+Personne physique,Industrie,Start-up,Marrakech-Safi,285574
+Coopérative,Tourisme,PME,Autre,125242
+Personne physique,Artisanat,PME,Tanger-Tétouan,105801
+Coopérative,Artisanat,PME,Tanger-Tétouan,93713
+Auto-entrepreneur,Commerce,PME,Casablanca-Settat,90911
+Coopérative,Agriculture,Start-up,Casablanca-Settat,185427
+Personne physique,Agriculture,Start-up,Fès-Meknès,180895
+Auto-entrepreneur,Tech,PME,Autre,145081
+Auto-entrepreneur,Commerce,PME,Tanger-Tétouan,105271
+Auto-entrepreneur,Artisanat,Start-up,Rabat-Salé-Kénitra,148976
+Coopérative,Industrie,PME,Marrakech-Safi,168992
+Personne physique,Agriculture,TPE,Casablanca-Settat,48662
+Auto-entrepreneur,Artisanat,PME,Marrakech-Safi,94516
+Auto-entrepreneur,Agriculture,PME,Marrakech-Safi,104376
+Auto-entrepreneur,Agriculture,TPE,Fès-Meknès,35939
+Coopérative,Agriculture,TPE,Tanger-Tétouan,29063
+Coopérative,Industrie,Start-up,Casablanca-Settat,260858
+Personne physique,Commerce,Start-up,Marrakech-Safi,170643
+Coopérative,Industrie,TPE,Casablanca-Settat,62904
+Auto-entrepreneur,Tourisme,TPE,Rabat-Salé-Kénitra,43818
+Personne physique,Artisanat,Start-up,Fès-Meknès,149192
+Auto-entrepreneur,Commerce,PME,Rabat-Salé-Kénitra,125394
+Auto-entrepreneur,Commerce,TPE,Casablanca-Settat,30822
+Coopérative,Commerce,Start-up,Casablanca-Settat,246933
+Personne physique,Commerce,PME,Tanger-Tétouan,119933
+Coopérative,Industrie,TPE,Marrakech-Safi,45391
+Coopérative,Commerce,PME,Marrakech-Safi,114102
+Personne physique,Tech,Start-up,Rabat-Salé-Kénitra,331746
+Auto-entrepreneur,Artisanat,TPE,Fès-Meknès,24311
+Auto-entrepreneur,Commerce,PME,Autre,84724
+Personne physique,Artisanat,TPE,Marrakech-Safi,39242
+Auto-entrepreneur,Tech,PME,Tanger-Tétouan,170632
+Personne physique,Tech,Start-up,Rabat-Salé-Kénitra,339762
+Personne physique,Artisanat,Start-up,Rabat-Salé-Kénitra,191860
+Coopérative,Agriculture,TPE,Autre,35201
+Personne physique,Tourisme,PME,Tanger-Tétouan,122722
+Coopérative,Agriculture,TPE,Fès-Meknès,33017
+Auto-entrepreneur,Agriculture,TPE,Tanger-Tétouan,27160
+Auto-entrepreneur,Industrie,PME,Fès-Meknès,119352
+Auto-entrepreneur,Agriculture,PME,Tanger-Tétouan,102955
+Auto-entrepreneur,Commerce,PME,Tanger-Tétouan,89003
+Coopérative,Industrie,Start-up,Casablanca-Settat,299989
+Auto-entrepreneur,Industrie,TPE,Rabat-Salé-Kénitra,54614
+Personne physique,Tech,TPE,Tanger-Tétouan,58993
+Personne physique,Agriculture,Start-up,Autre,184846
+Personne physique,Tech,PME,Tanger-Tétouan,189551
+Coopérative,Artisanat,Start-up,Marrakech-Safi,186664
+Auto-entrepreneur,Tourisme,Start-up,Rabat-Salé-Kénitra,187756
+Auto-entrepreneur,Industrie,Start-up,Marrakech-Safi,269375
+Auto-entrepreneur,Artisanat,TPE,Rabat-Salé-Kénitra,29991
+Coopérative,Artisanat,Start-up,Marrakech-Safi,128735
+Personne physique,Commerce,TPE,Tanger-Tétouan,44764
+Personne physique,Tourisme,TPE,Tanger-Tétouan,53125
+Auto-entrepreneur,Artisanat,TPE,Casablanca-Settat,32052
+Personne physique,Artisanat,PME,Autre,106565
+Personne physique,Tourisme,TPE,Marrakech-Safi,51916
+Coopérative,Tourisme,TPE,Fès-Meknès,34290
+Coopérative,Artisanat,PME,Casablanca-Settat,91977
+Coopérative,Tourisme,TPE,Marrakech-Safi,42298
+Coopérative,Artisanat,Start-up,Marrakech-Safi,151895
+Auto-entrepreneur,Artisanat,Start-up,Casablanca-Settat,174935
+Coopérative,Commerce,TPE,Tanger-Tétouan,44370
+Personne physique,Agriculture,PME,Marrakech-Safi,112964
+Auto-entrepreneur,Artisanat,Start-up,Tanger-Tétouan,125265
+Personne physique,Tech,PME,Casablanca-Settat,256921
+Personne physique,Industrie,PME,Tanger-Tétouan,163786
+Personne physique,Agriculture,Start-up,Rabat-Salé-Kénitra,237100
+Coopérative,Agriculture,PME,Fès-Meknès,99470
+Coopérative,Agriculture,Start-up,Marrakech-Safi,192064
+Auto-entrepreneur,Commerce,PME,Autre,76948
+Auto-entrepreneur,Artisanat,Start-up,Fès-Meknès,139589
+Coopérative,Commerce,TPE,Tanger-Tétouan,37512
+Personne physique,Artisanat,Start-up,Marrakech-Safi,181063
+Auto-entrepreneur,Commerce,Start-up,Tanger-Tétouan,147425
+Coopérative,Commerce,Start-up,Rabat-Salé-Kénitra,219839
+Coopérative,Industrie,Start-up,Casablanca-Settat,340100
+Coopérative,Tech,PME,Marrakech-Safi,167586
+Personne physique,Commerce,TPE,Rabat-Salé-Kénitra,37409
+Coopérative,Industrie,Start-up,Rabat-Salé-Kénitra,229481
+Coopérative,Tourisme,PME,Marrakech-Safi,128400
+Coopérative,Tech,TPE,Tanger-Tétouan,65699
+Coopérative,Commerce,TPE,Autre,35068
+Auto-entrepreneur,Agriculture,TPE,Rabat-Salé-Kénitra,29997
+Auto-entrepreneur,Tourisme,TPE,Fès-Meknès,32708
+Coopérative,Tourisme,Start-up,Rabat-Salé-Kénitra,220660
+Personne physique,Industrie,Start-up,Autre,269651
+Auto-entrepreneur,Tourisme,PME,Tanger-Tétouan,129072
+Coopérative,Tech,PME,Tanger-Tétouan,161515
+Auto-entrepreneur,Commerce,PME,Fès-Meknès,104464
+Auto-entrepreneur,Commerce,TPE,Rabat-Salé-Kénitra,34334
+Personne physique,Agriculture,TPE,Tanger-Tétouan,38851
+Coopérative,Industrie,Start-up,Autre,264151
+Coopérative,Agriculture,TPE,Marrakech-Safi,38771
+Personne physique,Tourisme,TPE,Casablanca-Settat,59227
+Personne physique,Agriculture,TPE,Casablanca-Settat,37460
+Coopérative,Tech,PME,Casablanca-Settat,174978
+Coopérative,Commerce,PME,Rabat-Salé-Kénitra,131300
+Personne physique,Tourisme,Start-up,Fès-Meknès,220452
+Auto-entrepreneur,Agriculture,TPE,Tanger-Tétouan,29109
+Auto-entrepreneur,Industrie,TPE,Marrakech-Safi,39925
+Personne physique,Tech,Start-up,Autre,262793
+Auto-entrepreneur,Tech,TPE,Marrakech-Safi,64830
+Personne physique,Agriculture,TPE,Autre,31563
+Auto-entrepreneur,Commerce,PME,Rabat-Salé-Kénitra,99533
+Auto-entrepreneur,Agriculture,Start-up,Casablanca-Settat,156757
+Coopérative,Tourisme,Start-up,Rabat-Salé-Kénitra,200292
+Coopérative,Agriculture,Start-up,Fès-Meknès,141549
+Auto-entrepreneur,Tech,Start-up,Fès-Meknès,268028
+Auto-entrepreneur,Agriculture,PME,Autre,71457
+Coopérative,Commerce,PME,Tanger-Tétouan,128536
+Coopérative,Industrie,TPE,Tanger-Tétouan,48248
+Coopérative,Artisanat,TPE,Autre,28804
+Personne physique,Agriculture,TPE,Fès-Meknès,43777
+Auto-entrepreneur,Commerce,TPE,Fès-Meknès,34249
+Coopérative,Commerce,PME,Fès-Meknès,110450
+Auto-entrepreneur,Industrie,Start-up,Rabat-Salé-Kénitra,234293
+Personne physique,Tech,PME,Fès-Meknès,186174
+Personne physique,Commerce,TPE,Marrakech-Safi,45381
+Coopérative,Commerce,PME,Casablanca-Settat,151174
+Personne physique,Commerce,Start-up,Fès-Meknès,214944
+Auto-entrepreneur,Commerce,Start-up,Autre,156536
+Coopérative,Tourisme,PME,Casablanca-Settat,145981
+Auto-entrepreneur,Tourisme,PME,Rabat-Salé-Kénitra,111822
+Auto-entrepreneur,Tech,PME,Autre,124597
+Personne physique,Agriculture,TPE,Casablanca-Settat,45096
+Personne physique,Commerce,PME,Autre,135755
+Personne physique,Industrie,PME,Rabat-Salé-Kénitra,164453
+Personne physique,Agriculture,PME,Marrakech-Safi,129120
+Personne physique,Industrie,Start-up,Rabat-Salé-Kénitra,277318
+Coopérative,Agriculture,Start-up,Rabat-Salé-Kénitra,191709
+Auto-entrepreneur,Tech,TPE,Autre,42269
+Auto-entrepreneur,Commerce,TPE,Tanger-Tétouan,33325
+Auto-entrepreneur,Commerce,Start-up,Fès-Meknès,178048
+Auto-entrepreneur,Artisanat,Start-up,Fès-Meknès,124891
+Personne physique,Industrie,Start-up,Marrakech-Safi,319789
+Auto-entrepreneur,Agriculture,PME,Marrakech-Safi,107345
+Coopérative,Agriculture,PME,Fès-Meknès,120131
+Coopérative,Tourisme,Start-up,Tanger-Tétouan,181006
+Auto-entrepreneur,Artisanat,PME,Fès-Meknès,76586
+Auto-entrepreneur,Tourisme,PME,Tanger-Tétouan,92984
+Coopérative,Tourisme,TPE,Marrakech-Safi,48478
+Coopérative,Tourisme,Start-up,Casablanca-Settat,260796
+Personne physique,Industrie,Start-up,Autre,274315
+Coopérative,Industrie,PME,Marrakech-Safi,184164
+Personne physique,Tech,Start-up,Marrakech-Safi,352934
+Personne physique,Tech,TPE,Rabat-Salé-Kénitra,77133
+Personne physique,Tourisme,TPE,Rabat-Salé-Kénitra,39484
+Personne physique,Artisanat,TPE,Rabat-Salé-Kénitra,40502
+Personne physique,Agriculture,Start-up,Autre,153195
+Auto-entrepreneur,Industrie,Start-up,Rabat-Salé-Kénitra,284868
+Coopérative,Artisanat,Start-up,Tanger-Tétouan,175268
+Personne physique,Commerce,Start-up,Fès-Meknès,218731
+Coopérative,Industrie,Start-up,Casablanca-Settat,241896
+Coopérative,Industrie,TPE,Marrakech-Safi,49748
+Personne physique,Tech,PME,Tanger-Tétouan,190101
+Auto-entrepreneur,Agriculture,TPE,Casablanca-Settat,33231
+Personne physique,Agriculture,Start-up,Tanger-Tétouan,167011
+Auto-entrepreneur,Commerce,TPE,Tanger-Tétouan,39943
+Coopérative,Commerce,Start-up,Marrakech-Safi,195366
+Auto-entrepreneur,Industrie,Start-up,Fès-Meknès,210264
+Auto-entrepreneur,Tourisme,TPE,Rabat-Salé-Kénitra,36242
+Auto-entrepreneur,Tech,Start-up,Autre,246678
+Coopérative,Tech,PME,Fès-Meknès,186775
+Coopérative,Industrie,Start-up,Autre,244524
+Auto-entrepreneur,Artisanat,PME,Marrakech-Safi,98092
+Auto-entrepreneur,Tourisme,PME,Marrakech-Safi,107869
+Personne physique,Industrie,Start-up,Marrakech-Safi,359059
+Auto-entrepreneur,Tourisme,TPE,Casablanca-Settat,45167
+Personne physique,Tourisme,PME,Autre,107334
+Auto-entrepreneur,Tourisme,TPE,Fès-Meknès,40091
+Personne physique,Industrie,PME,Fès-Meknès,144759
+Coopérative,Tech,Start-up,Tanger-Tétouan,354999
+Auto-entrepreneur,Tech,Start-up,Tanger-Tétouan,266630
+Auto-entrepreneur,Tourisme,PME,Tanger-Tétouan,124328
+Auto-entrepreneur,Artisanat,Start-up,Marrakech-Safi,160611
+Auto-entrepreneur,Agriculture,PME,Fès-Meknès,102360
+Personne physique,Industrie,Start-up,Autre,301323
+Auto-entrepreneur,Agriculture,TPE,Marrakech-Safi,29500
+Coopérative,Artisanat,Start-up,Casablanca-Settat,144208
+Coopérative,Industrie,TPE,Tanger-Tétouan,51904
+Auto-entrepreneur,Tourisme,Start-up,Marrakech-Safi,156494
+Coopérative,Tech,TPE,Marrakech-Safi,67913
+Auto-entrepreneur,Agriculture,Start-up,Casablanca-Settat,165165
+Auto-entrepreneur,Commerce,TPE,Rabat-Salé-Kénitra,42492
+Coopérative,Commerce,PME,Fès-Meknès,115160
+Auto-entrepreneur,Artisanat,PME,Autre,85352
+Coopérative,Tourisme,TPE,Rabat-Salé-Kénitra,36274
+Personne physique,Agriculture,Start-up,Tanger-Tétouan,228961
+Auto-entrepreneur,Tourisme,TPE,Marrakech-Safi,42088
+Personne physique,Agriculture,Start-up,Casablanca-Settat,218861
+Coopérative,Artisanat,PME,Casablanca-Settat,108368
+Personne physique,Artisanat,Start-up,Fès-Meknès,183860
+Personne physique,Commerce,PME,Rabat-Salé-Kénitra,116463
+Coopérative,Tourisme,Start-up,Fès-Meknès,192572
+Personne physique,Industrie,Start-up,Marrakech-Safi,287840
+Personne physique,Commerce,Start-up,Fès-Meknès,173320
+Coopérative,Tourisme,TPE,Autre,34519
+Personne physique,Commerce,TPE,Casablanca-Settat,38675
+Coopérative,Industrie,PME,Casablanca-Settat,144400
+Personne physique,Tech,PME,Tanger-Tétouan,179354
+Coopérative,Tech,TPE,Tanger-Tétouan,74671
+Coopérative,Tech,PME,Marrakech-Safi,192744
+Personne physique,Tech,TPE,Autre,74739
+Personne physique,Agriculture,Start-up,Rabat-Salé-Kénitra,204330
+Personne physique,Tech,PME,Fès-Meknès,184483
+Auto-entrepreneur,Industrie,PME,Marrakech-Safi,144354
+Auto-entrepreneur,Artisanat,TPE,Tanger-Tétouan,27323
+Auto-entrepreneur,Artisanat,PME,Fès-Meknès,67213
+Coopérative,Agriculture,PME,Tanger-Tétouan,114084
+Personne physique,Tech,Start-up,Fès-Meknès,294733
+Coopérative,Tech,PME,Rabat-Salé-Kénitra,207943
+Auto-entrepreneur,Tech,Start-up,Marrakech-Safi,296823
+Personne physique,Commerce,TPE,Fès-Meknès,34755
+Coopérative,Tourisme,PME,Autre,90163
+Personne physique,Commerce,Start-up,Casablanca-Settat,260001
+Coopérative,Tourisme,TPE,Autre,35864
+Personne physique,Tech,PME,Autre,155597
+Auto-entrepreneur,Tech,TPE,Casablanca-Settat,73794
+Auto-entrepreneur,Commerce,PME,Autre,75562
+Personne physique,Commerce,TPE,Fès-Meknès,43525
+Coopérative,Tourisme,TPE,Fès-Meknès,45919
+Auto-entrepreneur,Artisanat,Start-up,Fès-Meknès,119124
+Auto-entrepreneur,Tourisme,TPE,Casablanca-Settat,33933
+Auto-entrepreneur,Commerce,PME,Autre,77897
+Personne physique,Industrie,PME,Casablanca-Settat,182419
+Personne physique,Commerce,Start-up,Fès-Meknès,169659
+Coopérative,Industrie,PME,Autre,157007
+Coopérative,Agriculture,PME,Autre,80182
+Coopérative,Commerce,PME,Tanger-Tétouan,115182
+Personne physique,Agriculture,TPE,Tanger-Tétouan,47947
+Personne physique,Artisanat,TPE,Rabat-Salé-Kénitra,41365
+Coopérative,Tourisme,PME,Marrakech-Safi,127100
+Coopérative,Industrie,Start-up,Tanger-Tétouan,249075
+Personne physique,Tourisme,TPE,Casablanca-Settat,51953
+Coopérative,Agriculture,Start-up,Tanger-Tétouan,181947
+Auto-entrepreneur,Industrie,PME,Rabat-Salé-Kénitra,146730
+Personne physique,Tourisme,PME,Autre,103553
+Coopérative,Commerce,TPE,Rabat-Salé-Kénitra,46373
+Personne physique,Tech,PME,Autre,185204
+Auto-entrepreneur,Agriculture,TPE,Autre,25282
+Personne physique,Tourisme,PME,Marrakech-Safi,127859
+Personne physique,Agriculture,PME,Tanger-Tétouan,115878
+Personne physique,Agriculture,TPE,Casablanca-Settat,49765
+Personne physique,Industrie,TPE,Casablanca-Settat,72167
+Auto-entrepreneur,Industrie,TPE,Fès-Meknès,50512
+Personne physique,Tech,PME,Autre,152034
+Personne physique,Commerce,PME,Casablanca-Settat,135546
+Coopérative,Agriculture,Start-up,Marrakech-Safi,178657
+Personne physique,Tourisme,TPE,Autre,32711
+Coopérative,Artisanat,PME,Marrakech-Safi,85421
+Auto-entrepreneur,Agriculture,PME,Casablanca-Settat,116595
+Auto-entrepreneur,Agriculture,TPE,Casablanca-Settat,30091
+Auto-entrepreneur,Tech,Start-up,Fès-Meknès,269757
+Auto-entrepreneur,Commerce,TPE,Casablanca-Settat,33139
+Coopérative,Artisanat,Start-up,Autre,114087
+Personne physique,Industrie,PME,Autre,145230
+Auto-entrepreneur,Industrie,Start-up,Autre,257115
+Personne physique,Tourisme,PME,Fès-Meknès,143719
+Coopérative,Artisanat,TPE,Fès-Meknès,35426
+Coopérative,Industrie,TPE,Casablanca-Settat,59111
+Coopérative,Tourisme,TPE,Rabat-Salé-Kénitra,35887
+Auto-entrepreneur,Commerce,Start-up,Rabat-Salé-Kénitra,181924
+Personne physique,Tourisme,PME,Fès-Meknès,125910
+Personne physique,Industrie,TPE,Casablanca-Settat,75091
+Personne physique,Tech,TPE,Rabat-Salé-Kénitra,61684
+Coopérative,Tech,PME,Casablanca-Settat,206922
+Auto-entrepreneur,Tech,TPE,Casablanca-Settat,52977
+Coopérative,Industrie,PME,Casablanca-Settat,165703
+Coopérative,Tech,PME,Tanger-Tétouan,206944
+Personne physique,Artisanat,PME,Autre,93593
+Coopérative,Commerce,PME,Casablanca-Settat,119959
+Personne physique,Tourisme,PME,Tanger-Tétouan,129302
+Auto-entrepreneur,Tourisme,Start-up,Fès-Meknès,168226
+Personne physique,Industrie,TPE,Rabat-Salé-Kénitra,70182
+Auto-entrepreneur,Tech,Start-up,Autre,291522
+Personne physique,Tech,TPE,Rabat-Salé-Kénitra,86887
+Coopérative,Agriculture,Start-up,Autre,180591
+Coopérative,Commerce,PME,Rabat-Salé-Kénitra,111591
+Auto-entrepreneur,Artisanat,TPE,Autre,27096
+Auto-entrepreneur,Tourisme,TPE,Rabat-Salé-Kénitra,36857
+Auto-entrepreneur,Agriculture,Start-up,Rabat-Salé-Kénitra,151514
+Personne physique,Agriculture,Start-up,Rabat-Salé-Kénitra,238633
+Personne physique,Industrie,TPE,Rabat-Salé-Kénitra,51368
+Auto-entrepreneur,Tourisme,Start-up,Fès-Meknès,198481
+Coopérative,Industrie,Start-up,Casablanca-Settat,292424
+Personne physique,Artisanat,Start-up,Marrakech-Safi,184604
+Personne physique,Agriculture,PME,Tanger-Tétouan,127649
+Personne physique,Agriculture,PME,Marrakech-Safi,138966
+Auto-entrepreneur,Commerce,Start-up,Marrakech-Safi,179294
+Auto-entrepreneur,Artisanat,Start-up,Autre,131742
+Auto-entrepreneur,Agriculture,PME,Casablanca-Settat,87295
+Auto-entrepreneur,Artisanat,PME,Autre,76157
+Auto-entrepreneur,Tourisme,TPE,Casablanca-Settat,34059
+Coopérative,Tech,TPE,Casablanca-Settat,75882
+Coopérative,Agriculture,PME,Rabat-Salé-Kénitra,113954
+Auto-entrepreneur,Commerce,Start-up,Fès-Meknès,173143
+Personne physique,Tourisme,Start-up,Rabat-Salé-Kénitra,192938
+Auto-entrepreneur,Artisanat,Start-up,Fès-Meknès,110911
+Coopérative,Industrie,Start-up,Autre,264027
+Coopérative,Tourisme,TPE,Fès-Meknès,31889
+Personne physique,Agriculture,PME,Autre,89478
+Coopérative,Artisanat,Start-up,Marrakech-Safi,126763
+Auto-entrepreneur,Tech,TPE,Marrakech-Safi,66226
+Personne physique,Tourisme,Start-up,Fès-Meknès,234057
+Auto-entrepreneur,Agriculture,PME,Fès-Meknès,85847
+Auto-entrepreneur,Commerce,TPE,Autre,28110
+Personne physique,Industrie,PME,Rabat-Salé-Kénitra,177638
+Auto-entrepreneur,Artisanat,PME,Autre,83906
+Coopérative,Tourisme,TPE,Rabat-Salé-Kénitra,45270
+Auto-entrepreneur,Tourisme,TPE,Marrakech-Safi,31467
+Personne physique,Tech,TPE,Casablanca-Settat,66963
+Personne physique,Tech,TPE,Fès-Meknès,55817
+Personne physique,Commerce,TPE,Rabat-Salé-Kénitra,47486
+Auto-entrepreneur,Industrie,TPE,Autre,47768
+Personne physique,Commerce,TPE,Marrakech-Safi,38506
+Personne physique,Agriculture,Start-up,Rabat-Salé-Kénitra,169759
+Auto-entrepreneur,Agriculture,PME,Autre,71960
+Coopérative,Commerce,TPE,Fès-Meknès,43138
+Auto-entrepreneur,Industrie,Start-up,Fès-Meknès,209345
+Personne physique,Commerce,Start-up,Tanger-Tétouan,235384
+Personne physique,Industrie,Start-up,Casablanca-Settat,346456
+Auto-entrepreneur,Industrie,PME,Tanger-Tétouan,137200
+Coopérative,Artisanat,TPE,Marrakech-Safi,27792
+Personne physique,Industrie,Start-up,Rabat-Salé-Kénitra,267295
+Personne physique,Tech,PME,Marrakech-Safi,219661
+Personne physique,Industrie,PME,Autre,179796
+Auto-entrepreneur,Industrie,PME,Fès-Meknès,144674
+Personne physique,Industrie,Start-up,Tanger-Tétouan,303636
+Coopérative,Agriculture,TPE,Tanger-Tétouan,29404
